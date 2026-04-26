@@ -4,4 +4,4 @@
 
 # Student Name: Jerold M. Amora
 
-## Powerpoint Link: https://docs.google.com/presentation/d/1EhB6tnZ9q_63vbYmDWFZO4Pe5M-CQOmKISVxqsdNcOk/edit?usp=sharing
+🔗 [Click here to view the PDF in repository](https://github.com/JEIT25/LW5-GITHUB-REPO/blob/main/Laboratory%20Work%205%20-%20Applying%20DAX%20Fundamentals%20in%20Power%20BI_%20From%20Measures%20to%20Contextual%20Analysis.pdf))
